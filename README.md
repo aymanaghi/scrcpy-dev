@@ -1,9 +1,16 @@
-# 📱 scrcpy-dev — Android Automation & Development Environment
+# 🐝 scrcpy-dev  
+Fedora KDE Android automation & screen-mirroring toolkit using ADB + scrcpy  
 
-A minimal setup for ADB + scrcpy automation and Android desktop development on Fedora KDE.
+[![Repo size](https://img.shields.io/github/repo-size/aymanaghi/scrcpy-dev)](https://github.com/aymanaghi/scrcpy-dev)  
+[![Stars](https://img.shields.io/github/stars/aymanaghi/scrcpy-dev?style=social)](https://github.com/aymanaghi/scrcpy-dev)
 
-## 🚀 Setup
+---
 
-### 1. Install dependencies
-```bash
-sudo dnf install android-tools ffmpeg SDL2-devel libusb1-devel java-17-openjdk git python3-pip -y
+### 🧠 What it does  
+This project gives you a clean Fedora-ready setup for:
+- ADB & scrcpy mirroring  
+- Android SDK + build tools  
+- Automation scripts (Python + Bash)  
+- Real-time device info and controls  
+
+---
