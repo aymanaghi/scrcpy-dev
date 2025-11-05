@@ -1,3 +1,11 @@
 
 scrcpy/
 
+
+# Build caches
+build/
+.gradle/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
